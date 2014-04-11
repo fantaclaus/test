@@ -7,3 +7,5 @@ Ignore it.
 added in VS.
 
 added in GitHub Desktop
+
+New line
