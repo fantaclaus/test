@@ -1,23 +1,5 @@
-```javascript
+wiki: https://github.com/fantaclaus/test/wiki
 
-function a()
-{
-	return "result";
-}
+[wiki](https://github.com/fantaclaus/test/wiki)
 
-```
-
-asdasd
-
-```typescript
-
-	onRender(): any
-	{
-		var result = 
-			tsw.html.ul().children([
-				this.items.map(item => tsw.html.li().children(item)),
-			]);
-		return result;
-	}
-
-```
+[wiki](wiki)
