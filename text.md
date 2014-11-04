@@ -28,9 +28,10 @@ iojyouyuyuioy
  asdas d;as | alkdj alskjd alk | 123123
 
 gffgytt|gyhfyhfgyhfutu|hyuiyiyuiikh|fgthtg
--------|----------------------------
+-------|------------------------|---|-----
 frfefree|fgtrgretgtyt|ttgtgtgtgtg|fggfgv
 uydfouriourio|fruhfirojgiorjg|~~fhudfhrifruh~~|~~jkfjkl;~~
+
 # frif
 uhuhu|frfr|fdfr
 ---|---|----
