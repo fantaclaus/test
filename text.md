@@ -5,4 +5,4 @@ This is a text
 zxc,.n asfdljh qwerjkh qwlk nxlnca lsjfn 
 
 [[readme.md]]
-[readme](readme.md)
+[readme](README.md)
