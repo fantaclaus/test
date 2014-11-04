@@ -4,7 +4,8 @@ wiki: https://github.com/fantaclaus/test/wiki
 
 [text](text.md)
 
-[latest release](releases/latest)
+[latest release](/releases/latest)
+[latest release](https://github.com/fantaclaus/test/releases/latest)
 
 # header1
 
