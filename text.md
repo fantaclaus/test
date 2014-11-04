@@ -3,3 +3,6 @@ This is a text
 
 #title 2
 zxc,.n asfdljh qwerjkh qwlk nxlnca lsjfn 
+
+[[readme.md]]
+[readme(read.md)]
